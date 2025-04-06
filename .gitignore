@@ -1,0 +1,17 @@
+# Ignorar node_modules
+node_modules/
+
+# Ignorar entornos virtuales de Python
+venv/
+
+# Ignorar cachés de Python
+__pycache__/
+*.pyc
+
+# Ignorar .env
+.env
+
+# Build de Vue o dist en general
+dist/
+
+# (Otras carpetas o archivos que NO quieras subir)
